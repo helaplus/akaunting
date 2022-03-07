@@ -49,7 +49,7 @@
         "laravelcollective/html": "6.2.*",
         "league/flysystem-aws-s3-v3": "1.0.*",
         "league/oauth2-client": "2.6.*",
-        "league/omnipay": "^3.2.*",
+        "league/omnipay": "3.2.*",
         "livewire/livewire": "2.3.*",
         "lorisleiva/laravel-search-string": "1.1.*",
         "maatwebsite/excel": "3.1.*",
